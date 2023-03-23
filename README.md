@@ -24,7 +24,7 @@ composer create-project drupal-composer/drupal-project:8.x-dev some-dir --stabil
 ```
 
 With `composer require ...` you can download new dependencies to your 
-installation.
+installation. Check the manual for more.
 
 ```
 cd some-dir
